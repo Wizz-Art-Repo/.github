@@ -8,7 +8,7 @@
 
 **Building modern, scalable solutions from Belgium to the world.**
 
-[![Website](https://img.shields.io/badge/arrowit.be-3D6A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arrowit.be)
+[![Website](https://img.shields.io/badge/arrow-it.be-3D6A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arrow-it.be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3D6A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/arrow-it-srl)
 
 ---
@@ -69,7 +69,7 @@ Level up your team on modern frameworks & best practices
 
 <div align="center">
 
-[![Try Invoicing](https://img.shields.io/badge/Try_Invoicing_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrowit.be)
+[![Try Invoicing](https://img.shields.io/badge/Try_Invoicing_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrow-it.be)
 
 </div>
 
@@ -148,7 +148,7 @@ Montée en compétences sur les frameworks modernes
 
 <div align="center">
 
-[![Découvrir](https://img.shields.io/badge/Découvrir_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrowit.be)
+[![Découvrir](https://img.shields.io/badge/Découvrir_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrow-it.be)
 
 </div>
 
