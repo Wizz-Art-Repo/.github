@@ -1,13 +1,15 @@
 <div align="center">
 
-# 🏹 Arrow IT
+<img src="https://img.shields.io/badge/▲_Arrow_IT-449DD7?style=for-the-badge&labelColor=3D6A8A" alt="Arrow IT" />
 
-### Software Development · AI Integration · Training
+<br>
+
+### Your IT Solution
 
 **Building modern, scalable solutions from Belgium to the world.**
 
-[![Website](https://img.shields.io/badge/arrowit.be-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arrowit.be)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/arrow-it-srl)
+[![Website](https://img.shields.io/badge/arrowit.be-3D6A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arrowit.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D6A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/arrow-it-srl)
 
 ---
 
@@ -67,7 +69,7 @@ Level up your team on modern frameworks & best practices
 
 <div align="center">
 
-[![Try Invoicing](https://img.shields.io/badge/Try_Invoicing_→-FF6B35?style=for-the-badge)](https://invoicing.arrowit.be)
+[![Try Invoicing](https://img.shields.io/badge/Try_Invoicing_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrowit.be)
 
 </div>
 
@@ -77,14 +79,14 @@ Level up your team on modern frameworks & best practices
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-3D6A8A?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-3D6A8A?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-3D6A8A?style=flat-square&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-449DD7?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-449DD7?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-528FBF?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-528FBF?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-528FBF?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -146,7 +148,7 @@ Montée en compétences sur les frameworks modernes
 
 <div align="center">
 
-[![Découvrir](https://img.shields.io/badge/Découvrir_→-FF6B35?style=for-the-badge)](https://invoicing.arrowit.be)
+[![Découvrir](https://img.shields.io/badge/Découvrir_→-449DD7?style=for-the-badge&logoColor=white)](https://invoicing.arrowit.be)
 
 </div>
 
@@ -155,10 +157,6 @@ Montée en compétences sur les frameworks modernes
 ---
 
 <div align="center">
-
-<sub>Crafted with ❤️ in Belgium — Conçu avec ❤️ en Belgique</sub>
-
-<br>
 
 <sub>© 2026 Arrow IT SRL</sub>
 
